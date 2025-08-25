@@ -1,0 +1,9 @@
+openai
+markdown
+streamlit
+python-dotenv
+pandas
+tavily-python
+wikipedia
+ipython
+tabulate 
