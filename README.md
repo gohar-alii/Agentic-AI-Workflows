@@ -5,6 +5,7 @@ colorFrom: blue
 colorTo: gray
 sdk: streamlit
 sdk_version: 1.49.1
+    # Improvement 1
 app_file: app.py
 pinned: false
 license: mit
