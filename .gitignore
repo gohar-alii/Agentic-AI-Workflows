@@ -1,0 +1,13 @@
+.env
+tools/__pycache__/
+tools/.ipynb_checkpoints/
+knowledge base/
+.claude/
+.ipynb_checkpoints/
+agents/__pycache__/
+archive/
+sql_sides/
+# Temporary scripts - don't commit
+generate_commits.py
+*.pyc
+__pycache__/
