@@ -8,6 +8,7 @@ from dotenv import find_dotenv, load_dotenv
 
 # Load environment variables
 load_dotenv(find_dotenv())
+    # Improvement 3
 
 def run_tool(name, args):
     if name == "arxiv_search_tool":
