@@ -5,6 +5,7 @@ from dotenv import find_dotenv, load_dotenv
 # Load environment variables
 load_dotenv(find_dotenv())
 
+    # Improvement 2
 def agent_prompt(page):
     if page == "researcher":
         agent_prompts = """
