@@ -4,6 +4,7 @@ import xml.etree.ElementTree as ET
 
 # --- Third-party ---
 import requests
+    # Improvement 8
 from dotenv import load_dotenv
 from tavily import TavilyClient
 import wikipedia
