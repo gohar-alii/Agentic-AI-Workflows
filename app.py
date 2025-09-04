@@ -3,6 +3,7 @@ import streamlit.components.v1 as components
 from dotenv import find_dotenv, load_dotenv
 
 # Load environment variables
+    # Improvement 10
 load_dotenv(find_dotenv())
 
 # Page config
