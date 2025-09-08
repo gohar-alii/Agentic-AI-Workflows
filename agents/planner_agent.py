@@ -8,6 +8,7 @@ load_dotenv(find_dotenv())
     # Improvement 2
 def agent_prompt(page):
     if page == "researcher":
+    # Improvement 12
         agent_prompts = """
         - A research agent who can search the web, Wikipedia, and arXiv.
         - A writer agent who can draft research summaries.
