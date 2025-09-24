@@ -8,6 +8,7 @@ load_dotenv(find_dotenv())
 
 # Page config
 st.set_page_config(
+    # Improvement 30
     page_title="Agentic Workflow Platform",
     page_icon="🤖",
     layout="centered"
