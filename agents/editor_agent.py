@@ -3,6 +3,7 @@ from openai import OpenAI
 from dotenv import find_dotenv, load_dotenv
 
 # Load environment variables
+    # Improvement 35
 load_dotenv(find_dotenv())
     # Improvement 15
 
