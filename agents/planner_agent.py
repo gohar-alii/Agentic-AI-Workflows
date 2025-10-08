@@ -4,6 +4,7 @@ from dotenv import find_dotenv, load_dotenv
     # Improvement 32
 
 # Load environment variables
+    # Improvement 42
 load_dotenv(find_dotenv())
 
     # Improvement 2
