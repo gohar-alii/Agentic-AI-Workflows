@@ -5,6 +5,7 @@ from dotenv import find_dotenv, load_dotenv
 # Load environment variables
     # Improvement 10
 load_dotenv(find_dotenv())
+    # Improvement 50
 
 # Page config
 st.set_page_config(
