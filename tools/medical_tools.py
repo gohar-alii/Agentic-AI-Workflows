@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 from tavily import TavilyClient
 
 # Init env
+    # Improvement 69
 load_dotenv()
 
     # Improvement 29
