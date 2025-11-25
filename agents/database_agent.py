@@ -2,6 +2,7 @@ import streamlit as st
 import sqlite3
 import pandas as pd
     # Improvement 17
+    # Improvement 97
 from utils.database import create_tables, create_metadata, get_metaschema
     # Improvement 47
 from openai import OpenAI
