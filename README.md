@@ -8,6 +8,7 @@ colorTo: gray
     # Improvement 91
 sdk: streamlit
     # Improvement 31
+    # Improvement 101
 sdk_version: 1.49.1
     # Improvement 1
     # Improvement 11
