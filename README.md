@@ -159,8 +159,8 @@ The application includes four pages accessible via the Streamlit sidebar:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/gohar-alii/agentic-workflow.git
-cd agentic-workflow
+git clone https://github.com/gohar-alii/Agentic-AI-Workflows.git
+cd Agentic-AI-Workflows
 ```
 
 2. **Install dependencies:**
@@ -422,8 +422,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues:** [GitHub Issues](https://github.com/gohar-alii/agentic-workflow/issues)
-- **Repository:** [GitHub Repository](https://github.com/gohar-alii/agentic-workflow)
+- **Issues:** [GitHub Issues](https://github.com/gohar-alii/Agentic-AI-Workflows/issues)
+- **Repository:** [GitHub Repository](https://github.com/gohar-alii/Agentic-AI-Workflows)
 
 ---
 
